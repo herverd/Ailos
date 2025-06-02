@@ -1,0 +1,7 @@
+C:\Ailos\Questao5\obj\Debug\net6.0\Questao5.csproj.AssemblyReference.cache
+C:\Ailos\Questao5\obj\Debug\net6.0\Questao5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ailos\Questao5\obj\Debug\net6.0\Questao5.AssemblyInfoInputs.cache
+C:\Ailos\Questao5\obj\Debug\net6.0\Questao5.AssemblyInfo.cs
+C:\Ailos\Questao5\obj\Debug\net6.0\Questao5.csproj.CoreCompileInputs.cache
+C:\Ailos\Questao5\obj\Debug\net6.0\Questao5.MvcApplicationPartsAssemblyInfo.cs
+C:\Ailos\Questao5\obj\Debug\net6.0\Questao5.MvcApplicationPartsAssemblyInfo.cache
