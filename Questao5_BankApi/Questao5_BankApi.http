@@ -1,0 +1,6 @@
+@Questao5_BankApi_HostAddress = http://localhost:5033
+
+GET {{Questao5_BankApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
